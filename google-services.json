@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487091218116",
+    "project_id": "fir-pinpoint-da7d0",
+    "storage_bucket": "fir-pinpoint-da7d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487091218116:android:f27f91a2c59f6549234b91",
+        "android_client_info": {
+          "package_name": "com.demo.aws"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487091218116-m6k6ear495ond73r1cu7qnde425hfoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6CJzEoJL9QobBZp2WhrmbhMCic2oOOeM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487091218116-m6k6ear495ond73r1cu7qnde425hfoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
