@@ -55,7 +55,7 @@ export class AppComponent {
       w.FCM.onNotification((payload) => {
 
 
-        alert(payload.title + ' ' + payload.body + "AWS notification")
+        alert(payload.title + '-' + payload.body )
 
       })
 
